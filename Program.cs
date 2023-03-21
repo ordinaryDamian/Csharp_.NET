@@ -3,6 +3,7 @@
 
 using System;
 using System.Diagnostics;
+using System.ComponentModel.DataAnnotations;
 
 namespace Program // Note: actual namespace depends on the project name.
 {
@@ -314,8 +315,9 @@ namespace Program // Note: actual namespace depends on the project name.
             // }
             // Console.WriteLine("{0} + {1} + {2} + {3} + {4} = {5}", cisla[0], cisla[1], cisla[2], cisla[3], cisla[4], cisla[0] + cisla[1] + cisla[2] + cisla[3] + cisla[4]);
 
-
-
+            string color = "red";
+            Car myObj = new Car();
+            Console.WriteLine(myObj.color);
 
 
 

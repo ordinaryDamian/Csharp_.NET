@@ -13,3 +13,11 @@ C:\školička\4.A Predmety\PRO\.NET\obj\Debug\net7.0\refint\.NET.dll
 C:\školička\4.A Predmety\PRO\.NET\obj\Debug\net7.0\.NET.pdb
 C:\školička\4.A Predmety\PRO\.NET\obj\Debug\net7.0\.NET.genruntimeconfig.cache
 C:\školička\4.A Predmety\PRO\.NET\obj\Debug\net7.0\ref\.NET.dll
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.csproj.AssemblyReference.cache
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.AssemblyInfoInputs.cache
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.AssemblyInfo.cs
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.csproj.CoreCompileInputs.cache
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.dll
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\refint\.NET.dll
+C:\školička\4.A Predmety\PRO\.NET\Csharp_.NET\obj\Debug\net7.0\.NET.pdb
