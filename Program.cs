@@ -291,28 +291,28 @@ namespace Program // Note: actual namespace depends on the project name.
             //         break;
             // }
 
-            int[] cisla = new int[5];
-            for (int i = 0; i < cisla.Length; i++)
-            {
-                Console.WriteLine("napíš čislo");
-                int z = int.Parse(Console.ReadLine());
-                cisla[i] = z;
+            // int[] cisla = new int[5];
+            // for (int i = 0; i < cisla.Length; i++)
+            // {
+            //     Console.WriteLine("napíš čislo");
+            //     int z = int.Parse(Console.ReadLine());
+            //     cisla[i] = z;
 
-            }
-            Console.WriteLine("Napisal si 5 čísel");
-            Console.WriteLine("čísla v poradi");
-            Array.Sort(cisla);
-            for (int i = 0; i < cisla.Length; i++)
-            {
-                Console.WriteLine(cisla[i]);
-            }
-            Console.WriteLine("Opačné poradie");
-            Array.Reverse(cisla);
-            for (int i = 0; i < cisla.Length; i++)
-            {
-                Console.WriteLine(cisla[i]);
-            }
-            Console.WriteLine("{0} + {1} + {2} + {3} + {4} = {5}", cisla[0], cisla[1], cisla[2], cisla[3], cisla[4], cisla[0] + cisla[1] + cisla[2] + cisla[3] + cisla[4]);
+            // }
+            // Console.WriteLine("Napisal si 5 čísel");
+            // Console.WriteLine("čísla v poradi");
+            // Array.Sort(cisla);
+            // for (int i = 0; i < cisla.Length; i++)
+            // {
+            //     Console.WriteLine(cisla[i]);
+            // }
+            // Console.WriteLine("Opačné poradie");
+            // Array.Reverse(cisla);
+            // for (int i = 0; i < cisla.Length; i++)
+            // {
+            //     Console.WriteLine(cisla[i]);
+            // }
+            // Console.WriteLine("{0} + {1} + {2} + {3} + {4} = {5}", cisla[0], cisla[1], cisla[2], cisla[3], cisla[4], cisla[0] + cisla[1] + cisla[2] + cisla[3] + cisla[4]);
 
 
 
