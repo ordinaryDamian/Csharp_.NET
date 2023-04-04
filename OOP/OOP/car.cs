@@ -11,15 +11,19 @@ namespace OOP
             
         public int horsePower;
         public string color;
-        public bool fourWheels;
+        public int year;
         public void senzorOff()
         {
             Console.WriteLine("Dvere sú zavreté"); 
         }
-        public Car()
+        //public Car() //konstruktor
+        //{
+        //    horsePower = 1111;
+        //    Console.WriteLine(horsePower);
+        //}
+        public Car(string modelHorsePower, string modelColor, int modelYear)
         {
-            horsePower = 1111;
-            Console.WriteLine(horsePower);
+
         }
     }
 }
