@@ -11,5 +11,9 @@ namespace OOP
         public int horsePower = 1000;
         public string color = "red";
         public bool fourWheels = true;
+        public void senzorOff()
+        {
+            Console.WriteLine("Dvere sú zavreté"); 
+        }
     }
 }
