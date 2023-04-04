@@ -8,12 +8,18 @@ namespace OOP
 {
     internal class Car
     {
-        public int horsePower = 1000;
-        public string color = "red";
-        public bool fourWheels = true;
+            
+        public int horsePower;
+        public string color;
+        public bool fourWheels;
         public void senzorOff()
         {
             Console.WriteLine("Dvere sú zavreté"); 
+        }
+        public Car()
+        {
+            horsePower = 1111;
+            Console.WriteLine(horsePower);
         }
     }
 }
