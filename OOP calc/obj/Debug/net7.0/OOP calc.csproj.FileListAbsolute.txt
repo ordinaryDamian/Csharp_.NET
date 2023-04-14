@@ -1,0 +1,15 @@
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.csproj.AssemblyReference.cache
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.AssemblyInfoInputs.cache
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.AssemblyInfo.cs
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.csproj.CoreCompileInputs.cache
+D:\Csharp_.NET\OOP calc\bin\Debug\net7.0\OOP calc.exe
+D:\Csharp_.NET\OOP calc\bin\Debug\net7.0\OOP calc.deps.json
+D:\Csharp_.NET\OOP calc\bin\Debug\net7.0\OOP calc.runtimeconfig.json
+D:\Csharp_.NET\OOP calc\bin\Debug\net7.0\OOP calc.dll
+D:\Csharp_.NET\OOP calc\bin\Debug\net7.0\OOP calc.pdb
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.dll
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\refint\OOP calc.dll
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.pdb
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\OOP calc.genruntimeconfig.cache
+D:\Csharp_.NET\OOP calc\obj\Debug\net7.0\ref\OOP calc.dll
