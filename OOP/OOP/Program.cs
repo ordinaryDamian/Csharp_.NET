@@ -20,7 +20,7 @@ namespace OOP //nazov projektu
         }//az sem sa tvory konstruktor
 
         static void Main(string[] args)
-    {
+        {
             //Car myObj = new Car(); //s týmto volam aĵkonstruktor v druhom súbore
             //Car myObj1 = new Car(); //once again zase ho vola   
             //    //myObj1.color = "orange";
@@ -40,10 +40,10 @@ namespace OOP //nazov projektu
             //myObj1.senzorOff(); // zavolal som funkciu z druheho súboru
 
             Program Ford = new Program("Mustang", "Blue", 1968); // s konstruktorom vytvorenie objektu
-            Console.WriteLine(Ford.color)
+            Console.WriteLine(Ford.color);
 
-        Console.ReadKey();
+            Console.ReadKey();
 
-    }
+        }
     }
 }
