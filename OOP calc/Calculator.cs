@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace OOP_calc
 {
-    // FIXME: tu to zacina
+
     internal class Calculator
     {
         int cisloA;
